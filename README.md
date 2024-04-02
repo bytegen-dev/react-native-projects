@@ -1,2 +1,2 @@
 # react-native-projects
-A compilation of projects I built while mastering react native
+A compilation and documentation of projects I built while mastering react native
